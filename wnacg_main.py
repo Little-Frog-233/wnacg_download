@@ -1,7 +1,7 @@
 #coding:utf-8
 import sys
 sys.path.append('../')
-from wnacg_comic import wnacg_comic
+from wnacg_comic_new import wnacg_comic
 
 if __name__ == '__main__':
 	url = sys.argv[1]
